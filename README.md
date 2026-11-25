@@ -9,7 +9,7 @@ Edição, motion graphics, câmera 3D, luzes realistas e color grading, tudo no 
 ![Plataforma](https://img.shields.io/badge/plataforma-Android%20%7C%20Web-0a0f1c)
 ![Licença](https://img.shields.io/badge/licen%C3%A7a-propriet%C3%A1ria-555)
 
-**[⬇️ Baixar o APK (Android)](../../releases/latest)** · **[🌐 Usar no navegador](https://blueeditor.netlify.app)**
+**[⬇️ Baixar o APK (Android)](https://github.com/RichCoel1303/blue-editor/raw/main/download/BlueEditor-1.6.0.apk)** · **[🌐 Usar no navegador](https://blueeditor.netlify.app)**
 
 <img src="docs/screens/02-editor.jpg" width="230"> <img src="docs/screens/03-camera-3d.jpg" width="230"> <img src="docs/screens/05-luzes.jpg" width="230">
 
@@ -73,13 +73,22 @@ Edição, motion graphics, câmera 3D, luzes realistas e color grading, tudo no 
 
 ## ⬇️ Instalação (Android)
 
-1. Abra a página de **[Releases](../../releases/latest)** e baixe o arquivo `BlueEditor-x.y.z.apk`.
+1. Baixe o **[BlueEditor-1.6.0.apk](https://github.com/RichCoel1303/blue-editor/raw/main/download/BlueEditor-1.6.0.apk)** (também na pasta [`download/`](download)).
 2. Toque no arquivo baixado. Se o Android pedir, permita **"Instalar apps de fontes desconhecidas"** para o seu navegador ou gerenciador de arquivos.
 3. Abra o **BLUE EDITOR**. Atualizações instalam por cima, sem perder seus projetos.
 
 > Requer Android 6.0 ou superior. Recomendado: Android 10+ com o WebView do sistema atualizado.
 
 **No navegador:** acesse o [link do app](https://blueeditor.netlify.app). No celular, use "Adicionar à tela inicial" para instalar como app.
+
+---
+
+## 📦 Arquivos para download
+
+| Arquivo | O que é |
+|---|---|
+| [`BlueEditor-1.6.0.apk`](https://github.com/RichCoel1303/blue-editor/raw/main/download/BlueEditor-1.6.0.apk) | Aplicativo Android |
+| [`BlueEditor-web-1.6.0.zip`](https://github.com/RichCoel1303/blue-editor/raw/main/download/BlueEditor-web-1.6.0.zip) | Versão web pronta para hospedar (ex.: Netlify) |
 
 ---
 
